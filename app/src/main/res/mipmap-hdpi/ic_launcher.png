@@ -1,0 +1,60 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="3" />
+      <entry action="$Delete" count="5" />
+      <entry action="$Paste" count="5" />
+      <entry action="$Redo" count="32" />
+      <entry action="$SelectAll" count="3" />
+      <entry action="$Undo" count="1069" />
+      <entry action="Android.SyncProject" count="2" />
+      <entry action="AndroidConnectDebuggerAction" count="13" />
+      <entry action="CleanGradleProject" count="6" />
+      <entry action="CloseProject" count="4" />
+      <entry action="CodeCleanup" count="1" />
+      <entry action="CodeCompletion" count="172" />
+      <entry action="CommentByLineComment" count="38" />
+      <entry action="Debug" count="12" />
+      <entry action="DialogOkAction Enter" count="36" />
+      <entry action="EditorBackSpace" count="7593" />
+      <entry action="EditorChooseLookupItem" count="1915" />
+      <entry action="EditorChooseLookupItemReplace" count="1" />
+      <entry action="EditorCopy" count="148" />
+      <entry action="EditorCut" count="111" />
+      <entry action="EditorDelete" count="3" />
+      <entry action="EditorDeleteLine" count="1" />
+      <entry action="EditorDown" count="3072" />
+      <entry action="EditorDownWithSelection" count="317" />
+      <entry action="EditorDuplicate" count="6" />
+      <entry action="EditorEnter" count="1556" />
+      <entry action="EditorLeft" count="1418" />
+      <entry action="EditorLeftWithSelection" count="103" />
+      <entry action="EditorPageDown" count="11" />
+      <entry action="EditorPageDownWithSelection" count="1" />
+      <entry action="EditorPageUp" count="38" />
+      <entry action="EditorPaste" count="345" />
+      <entry action="EditorRight" count="2053" />
+      <entry action="EditorRightWithSelection" count="70" />
+      <entry action="EditorSplitLine" count="2" />
+      <entry action="EditorStartNewLine" count="5" />
+      <entry action="EditorTab" count="329" />
+      <entry action="EditorUp" count="1463" />
+      <entry action="EditorUpWithSelection" count="13" />
+      <entry action="ExpandRegion" count="4" />
+      <entry action="Find" count="4" />
+      <entry action="FindInPath" count="1" />
+      <entry action="Generate" count="13" />
+      <entry action="GotoBookmark1" count="1" />
+      <entry action="GotoDeclaration" count="17" />
+      <entry action="GotoNextElementUnderCaretUsage" count="9" />
+      <entry action="GotoPrevElementUnderCaretUsage" count="5" />
+      <entry action="GotoPreviousError" count="1" />
+      <entry action="NewAndroidImageAsset" count="3" />
+      <entry action="NewClass" count="20" />
+      <entry action="NewDir" count="8" />
+      <entry action="NewProject" count="1" />
+      <entry action="NextTemplateVariable" count="6" />
+      <entry action="OpenFile" count="2" />
+      <entry action="RebuildGradleProject" count="1" />
+      <entry action="RenameElement" count="7" />
+      <entry action="Resume"
