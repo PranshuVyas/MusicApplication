@@ -38,6 +38,11 @@ public class ForegroundService extends Service {
     @Override
     public int onStartCommand(Intent intent, int flags, int startId) {
         Log.i("ForeGround service", "on Start : Action = " + intent.getAction());
+
+        Intent broadcastIntent = new Intent();
+        broadcastIntent.setAction(intent.getAction());
+        sendBroadcast(broadcastIntent);
+
         if (intent.getAction().equals(IConstants.ACTION.STARTFOREGROUND_ACTION)) {
             Log.i(LOG_TAG, "Received Start Foreground Intent ");
             Intent notificationIntent = new Intent(this, MainActivity.class);
@@ -107,6 +112,11 @@ public class ForegroundService extends Service {
             stopForeground(true);
             stopSelf();
         }
+
+
+
+
+
         return START_STICKY;
     }
 
